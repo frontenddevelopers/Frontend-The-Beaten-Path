@@ -1,5 +1,5 @@
 
-# Learning Front-End: The Beaten Path
+# Learning Front-End Development: The Beaten Path
 
 This post offers advice and a targeted approach toward becoming a well formed Frontend Developer. Consider this your framework for future topics.
 
