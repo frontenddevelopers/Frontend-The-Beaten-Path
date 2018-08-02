@@ -1,7 +1,7 @@
 
 # Learning Front-End: The Beaten Path
 
-###This post offers advice and a targeted approach toward becoming a well formed Frontend Developer. Consider this your framework for future topics.
+This post offers advice and a targeted approach toward becoming a well formed Frontend Developer. Consider this your framework for future topics.
 
 Many years ago, a good friend and mentor made a poignant comment on my abilities. He told me that libraries, frameworks, and content managers were a crutch. Stating that if I didn't have a Computer Science degree I would never evolve as a developer. I knew my code comprehension was abysmal and that I used Google to find code snippits, but didn't think it was that glaringly obvious.
 
